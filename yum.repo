@@ -1,0 +1,14 @@
+[AppStream]
+name=AppStream
+baseurl=file:///dvd/AppStream
+gpgcheck=0
+
+[BaseOS]
+name=BaseOS
+baseurl=file:///dvd/BaseOS
+gpgcheck=0
+
+[DockerCE]
+name=dockerCE
+baseurl=https://download.docker.com/linux/centos/8/x86_64/stable/
+gpgcheck=0
